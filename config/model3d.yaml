@@ -1,10 +1,10 @@
-json_path: ./data.json
+json_path: .fold_list/4.json
 save_folder: ./fold4/
 fold: 4
 resume: -1
 baselr: 0.001
 gpu_id: 3
-pretrain:  #/home/kui/Qikui/CBCT_Task/Code/3D_v1/whole/118500_stage_one.pth
+pretrain:  
 inchannel: 1
 num_class: 1
 dataset: npyDataSet_2d_v3
